@@ -12,7 +12,7 @@ If you are not familiar with hapi, please visit the site for more information.
 ###
 Create a new hapi project with the command npm init and follow the prompt to create a package.json in the project directory.
 
-To begin with clone the repository and start the server by running any of the cotrollers from the command prompt.
+To begin with clone the repository and start the server by running any of the controllers from the command prompt.
 
 > node restaurants.js
 
